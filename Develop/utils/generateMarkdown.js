@@ -53,7 +53,9 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Installation
+
   In order to run Application. Please run this command:
+  
   ${data.installation}
 
   ## Usage
