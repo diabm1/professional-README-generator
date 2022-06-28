@@ -1,4 +1,4 @@
-# sdfgdsf
+# readme-generator
 
   ![Github license](https://img.shields.io/badge/license-Apache_License_2.0-blue.svg)
 
@@ -12,14 +12,16 @@
   * [Questions](#questions)
 
   ## Description
-  sdfgsdfg
+  program that generates a readme file
 
   ## Installation
+
   In order to run Application. Please run this command:
-  sdfgsd
+  
+  npm i
 
   ## Usage
-  sdfgsdg
+  node index.js
 
   
       ## [License] (#table-of-contents)
@@ -31,16 +33,16 @@
 
   ## Contributing
 
-  sdfgsd
+  me
 
   ## Tests
   To run tests, run this command:
 
-  dfgsdf
+  n/a
 
   ## Questions
   If you have any questions please contact me using the following links:
-  [Github](https://github.com/sdfgsd)
+  [Github](https://github.com/diabm1)
 
 
-  [Email: dsgdsg@dfgdgf.com]
+  [Email: diabm1855@gmail.com]

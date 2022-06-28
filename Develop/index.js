@@ -18,7 +18,7 @@ const questions = [
   {
     type: "input",
     message:
-      "What are the installation instructions for this project? Write NONE if no instructions.",
+      "What are the installation instructions for this project?",
     name: "installation",
   },
   {
